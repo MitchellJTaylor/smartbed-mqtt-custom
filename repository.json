@@ -1,5 +1,5 @@
 {
-  "name": "Smartbed MQTT Add-On",
-  "url": "https://github.com/richardhopton/smartbed-mqtt",
-  "maintainer": "richardhopton"
+  "name": "Smartbed MQTT (Custom)",
+  "url": "https://github.com/MitchellJTaylor/smartbed-mqtt-custom",
+  "maintainer": "Mitchell J Taylor"
 }
