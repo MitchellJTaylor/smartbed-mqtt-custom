@@ -1,7 +1,7 @@
 {
-  "name": "Smartbed MQTT (Custom)",
+  "name": "Purple Bed Bluetooth Control",
   "version": "1.1.22",
-  "slug": "smartbed-mqtt-custom",
+  "slug": "purple-bed-integration",
   "description": "A Home Assistant add-on to enable controlling smart beds.",
   "url": "https://github.com/MitchellJTaylor/smartbed-mqtt.git",
   "startup": "application",
